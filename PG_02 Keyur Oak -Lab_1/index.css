@@ -1,0 +1,56 @@
+
+
+html, body{
+	margin:0;
+	padding:0;
+}
+
+body{
+	background: azure;
+	font-family: 'Edu QLD Beginner', cursive;
+}
+
+h1{
+    	text-align: center;
+	font-family: 'Bebas Neue', cursive;
+}
+
+.mainTxt{
+	font-size: large;
+    	text-align: center;
+    	color: #bf9e00;
+	border: outset;
+	transition: color 2s, fontsize 8s;
+}
+
+.mainTxt:hover{
+	font-size: x-large;
+    	color: #322a01;
+}
+
+.secondTxt{
+	text-align: left;
+    font-size: larger;
+    transition-duration: 2s;
+	width : 70%;
+    color: #031f5e;
+}
+
+.secondTxt:hover{
+	font-size : x-large;
+    	color: #000718;
+}
+
+.thirdTxt{
+	text-align: center;
+    width: 90%;
+    color: #2cb5b5;
+    font-size: large;
+    transition: width 2s, font-size 2s, color 2s;
+}
+
+.thirdTxt:hover{
+	width: 100%;
+	color : #001818;
+	font-size: x-large;
+}
