@@ -1,3 +1,22 @@
-.heading{
-	background-color:"blue";
+body{
+	background-color: powderblue;
 }
+
+h1 {
+  color: rgb(32, 143, 56);
+  text-align: center;
+}
+
+#one {
+  font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(48, 117, 236);
+  font-size: 20px;
+}
+
+#two {
+	font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+  color: rgb(255, 16, 72);
+  font-size: 20px;
+}
+
+
